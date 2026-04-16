@@ -48,13 +48,6 @@ Originally built to solve a very specific shipping-photo problem, AI Photo IQ ge
 
 This repo is a public-facing description of a working product. The implementation (AWS credentials handling, prompt engineering, catalog schema, freemium gating) lives in a private repository. If you're a collaborator, recruiter, or fellow builder who'd like a deeper look — reach out below.
 
-## Coming soon to this repo
-
-- [ ] Hero screenshot of the catalog view
-- [ ] Short demo GIF of the import → AI-extract → review flow
-- [ ] Architecture diagram (SwiftData vs. cloud tier)
-- [ ] Link to launch post / write-up
-
 ## Contact
 
-**Mark Porter** — [@marklovestech](https://github.com/marklovestech) · <mark@bonnieandmark.com>
+**Mark Porter** — [@marklovestech](https://github.com/marklovestech) · <mark@marklovestech.com>
